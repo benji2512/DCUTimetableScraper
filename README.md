@@ -13,5 +13,5 @@ I designed it with the idea to be run from a remote server at a specific time du
 1. Open code in text editor and add a sending email, receiving email and password for sending email(this password is encrypted using base64 in send_email function)
 2. Run `pipenv shell` from ~/DCUTimetableScraper/ to use Pipfile to install dependencies and create virtualenv
 3. Navigate to ~/DCUTimetableScraper/projectFiles/
-4. Run `python3 main.py`
+4. Run `python3 timetable.py`
 5. Follow onscreen prompts
