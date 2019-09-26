@@ -7,9 +7,9 @@ from email.mime.text import MIMEText
 from email.mime.base import MIMEBase 
 from email import encoders 
 
-from_address = ""#"Your sending email here"
-to_address = ""#"Your receiving email here"
-password = ""#"Your sending email password"
+from_address = #"Your sending email here"
+to_address = #"Your receiving email here"
+password = #"Your sending email password"
 
 def chrome_init():
     opts = webdriver.ChromeOptions()
