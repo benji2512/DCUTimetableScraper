@@ -1,4 +1,6 @@
-# DCUTimetableScraper
+# DCUTimetableScraper  
+
+[![CodeFactor](https://www.codefactor.io/repository/github/benji2512/dcutimetablescraper/badge)](https://www.codefactor.io/repository/github/benji2512/dcutimetablescraper)
 
 This repo uses Selenium to interact with opentimetable.dcu.ie to email an image of your timetable to yourself.  
 
